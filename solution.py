@@ -72,7 +72,7 @@ def main() -> None:
         Load Function.
         This function writes the scraped data into a json file and saves it.
         """
-        with open("data.json", "w", encoding="utf-8") as f:
+        with open(Constants.SOLUTION_FILE_NAME.value, "w", encoding="utf-8") as f:
             json.dump(output_json, f, ensure_ascii=False, indent=4)
 
     extract()

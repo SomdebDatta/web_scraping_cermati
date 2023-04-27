@@ -16,3 +16,5 @@ class Constants(Enum):
     ID_INITIALS = "initials"
 
     HTML_PARSER = "html.parser"
+
+    SOLUTION_FILE_NAME = "solution.json"
