@@ -45,6 +45,17 @@
             "posted_by": ""
         },
         {
+            "title": "Software Engineer In Test Automation Testing",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Create detailed, comprehensive and well-structured test plans and test casesDesign, develop and execute automation scripts using open source tools that is fast, scalable, easy to monitor and maintainCreate code that's easy to readAble to perform Test Automation and set up frameworks on multiple application platforms like Web, Mobile - Android and APIWork with the team to maintain, improve and clean your codeReview each other's code and learn the software engineering best practicesWork with deployments teams and resolve issues for the systemBuild and manage automated build/test/deployment environments"
+            ],
+            "qualification": [
+                "At least 3 years of experience in Automation Testing of software applicationsExperience of working with Web, Mobile and API Testing in both manual  automation testingDeep knowledge of Manual  Automation test methodologies and principlesExperience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, Ruby, etc.Highly experienced with testing tools such as Jira, TestRail, Git, Appium, Selenium,Webdriver.io, RestAssured, TestNG, Cucumber, CI/CD pipelinesHigh level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands"
+            ],
+            "posted_by": ""
+        },
+        {
             "title": "Lead Software Quality Assurance .",
             "location": "Jakarta,Indonesia",
             "description": [
@@ -164,15 +175,305 @@
                 "Bachelor’s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineerShould have a minimum of 5+ yrs of experience in a data engineering / dataarchitect / softwareengineering role.Had as lead, managingand handling people in a teamProven record of good mentorship and leadership in delivering high quality projectsStrong hands-on experience in java, python is required. Must have shipped multiple projects with a major hands-on contribution to each project.Experience in Big data technologies: Hadoop ecosystem (map-reduce, spark, Kafka)Experience in different storage technologies: OLTP like Postgres, OLAP like Redshift, Google BigQuery, NoSQL like Redis, HBase, KafkaFamiliarity with machine learning algorithms and concepts (gradient descent, logistic regression) and software libraries like pandas, TensorFlow, etc.Fluent in English (both spoken and written)."
             ],
             "posted_by": ""
-        },
+        }
+    ],
+    "Marketing Technology": [
         {
-            "title": "Software Engineer In Test Automation Testing (Senior & Principal Position)",
-            "location": "West Jakarta,Indonesia",
+            "title": "Junior Business Intelligence Analyst",
+            "location": "Jakarta,Indonesia",
             "description": [
-                "Create detailed, comprehensive and well-structured test plans and test casesDesign, develop and execute automation scripts using open source tools that is fast, scalable, easy to monitor and maintainCreate code that's easy to readAble to perform Test Automation and set up frameworks on multiple application platforms like Web, Mobile - Android and APIWork with the team to maintain, improve and clean your codeReview each other's code and learn the software engineering best practicesWork with deployments teams and resolve issues for the systemBuild and manage automated build/test/deployment environments"
+                "Interpreting data, analyzing results using query, data statistical techniques.Create robust, reusable data querying, transformation, and visualization processes using tools such as Excel, SQL, Big Query, Python, R and other big data tools.Develop analytical reports and represent large, complex sets of data through visual representation.Present information in a way that drives fact based decision making.Propose and define new business process improvement opportunities based on the data to drive business impact.Work with management to prioritize business and information needs."
             ],
             "qualification": [
-                "At least 3 years of experience in Automation Testing of software applicationsExperience of working with Web, Mobile and API Testing in both manual  automation testingDeep knowledge of Manual  Automation test methodologies and principlesExperience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, Ruby, etc.Highly experienced with testing tools such as Jira, TestRail, Git, Appium, Selenium,Webdriver.io, RestAssured, TestNG, Cucumber, CI/CD pipelinesHigh level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands"
+                "Having bachelor degreeor master degreein Information System, Computer Science, Math, Statistics or related field.Fresh graduates are welcome to apply. / Up to 2 years experienceExpert in SQL, have the ability to write advanced DB queries (able to use Python/R/Java/Javascript is desirable).Ability to quickly disseminate data to find key trends, as well as the ability to dive deep and mine the data behind these.Comfortable working with datasets containing millions of rows and creating complex visualizations from raw data in a live dashboard environment.Excellent written and verbal communication skills.Experience working with analytical tools (Jupyter, Python, Hive, BigQuery ML) is a plusAbility to work well and deliver under pressure"
+            ],
+            "posted_by": ""
+        }
+    ],
+    "Business Development": [
+        {
+            "title": "Insurance Partnership Manager",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Selling advertising and solutions by establishing partnerships and develop relationships with leasingcompaniesin Indonesia.Maintaining relationship with clients by providing support, information, and guidanceMaking sales plan and implementation.Finding contacts of prospective clients through means of telephone, email, face to face cold calling, direct mail, and networking.Presenting product information to clients.Preparing reports by collecting, analyzing, and summarising campaign result information."
+            ],
+            "qualification": [
+                "2+ years experience in partnership/marketingexecutive or 1+ year experience as an partnership/marketingmanager.Has basic understanding about digital media sales.Has experience in managing partnerships with leasing companiesBachelor degree in any major.Able to operate Microsoft office.Excellent communication skills, good negotiator, and good presentation.Adequate ability to write and speak in English.Energetic, mature, accountable, self-drive, fast learner, and good analytical skills."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Business Development Support",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Handle Product Masterfile and other integration related queries with clients and internal stakeholdersCoordinate with BI and/or Product team to solve discrepancy on data reconciliation and make sure the data recorded in the system is up to dateDrive analysis and insight on current products and support market research on targeted clientAssist in product configuration based on business requirements, analyze changes and making sure the end-to-end results are per expectationPerform monthly invoice reconciliation for existing clients and partnersCompile documentation such as correspondence and legal documentation to ensure projects are tracked properlyCoordinate with the Claims and CS team to resolve problems/ blockers regarding claims/ queries from clientsReport to Business Development Managers in providing support for proposal preparation among other key activitiesLiaise with the Business Development Managers in providing support"
+            ],
+            "qualification": [
+                "Minimum Bachelor Degree from Business related major from reputable universities.Detail oriented and proficient in using Microsoft officePreferably have exposure in a similar Business Development or Sales Support rolePreferably having work experience in consulting firm as analyst, insurance company or any tech company will be a plus pointAbility to effectively manage multiple tasks of varying complexities and meet deadlinesWilling to learn new things and adapt with fast paced environmentAnalytically proficient and highly experienced with conducting analysis"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Insurance Technical Manager",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Design customized insurance products according to client requirements  communicate it to the insurance partner, product manager, finance, and another stakeholders.Work together with business development to meet and analyse partner's needsAccompany business development when meeting with a prospect client and help to find out how insurance can be the client's marketing strategy / added value.Provide daily and weekly reporting to VP Insurance"
+            ],
+            "qualification": [
+                "Minimum 3 years of experience in insurance industryExperienced in general insurance industry, especially business/productExperienced indeveloping general microinsurance productExcellent written and verbal communication skillsUnderstand all aspects of a successful general insurance product throughout its life cycleGreat understanding of trend, recent news, ins and outs about insurance and fintech is a plusAble to work independently or in a team"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Business Development Manager - Employee Loan",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Identify and research and acquire potential clientsDevelop and maintain client relationshipsDevelop mutually beneficial proposalsNegotiate contract terms with clients and communicate with stakeholdersMonitor project and product teams to ensure contracts are executed as agreedGather useful information from customer and competitor dataMake and give presentations to prospective clients and internal executivesCreate and implement processes and policies to support the overall businessTrack, identify and add qualified prospects to sales pipelineTrack and report on the status of proposal componentsConduct ongoing market researchWork with the pricing department/decision maker to create rate proposalsDrive the partnership end to end processPrepare and submit partnership agreements"
+            ],
+            "qualification": [
+                "Experienced and has proven performance as BD or in acquiring B2B Clients for HR system or services, in company with B2B employee loan productsHas many HR/finance network or databaseMust Have deep knowledge of Employee LoanproductMust be proficient in Ms Office and preparing presentationMust be highly organized and work well in team environment.Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Health Insurance Claim Head",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Lead the Employee Benefit Insurance After Sale team including Data and Claim teamResponsibilities of After Sale team include processing claims, assist clients with endorsements, documents and data keepingOversees insurance claims that are in progress to make sure claim decision come out according to SLA and claim appraisal result is justified according to the agreed TCAssist clients who are admitted to hospital by coordinating with insurance and hospitals when necessaryMake daily, weekly, and monthly report for claim updatesCustomer care helpline – 24 hoursDevelop and maintain relationships with insurance companies’ claim departmentsNegotiate and appeal rejected claims with insuranceMonitor endorsement process and make sure SLA is achievedCheck and make sure member cards are correct and send them to the clients on timeAssist with client closing process by coordinating with insurance and making sure the policy T and C is as per agreedPut in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfactionContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning and commitment to quality."
+            ],
+            "qualification": [
+                "More than 5 years experience as Claim Manager in insurance or brokerage firmsHave good relationships with insurance companiesExcellent in communication, negotiation, and persuasion skillsStrong adherence to SLA and maintaining clients expectationsAble to respond to clients inquiry with lightning speed and accuracyStrong understanding of insurance terms and conditions and claim appeal processBackground in medicine is preferred but not a must"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "District Sales Manager (Jawa timur)",
+            "location": "surabaya,Indonesia",
+            "description": [
+                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the programs sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
+            ],
+            "qualification": [
+                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Distric Sales Manager (Bali)",
+            "location": "Bali,Indonesia",
+            "description": [
+                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the programs sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
+            ],
+            "qualification": [
+                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Insurance Business Development - Employee Benefit",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Maintaining existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new Employee Benefit accountsDevelop prospecting strategies to increase opportunities for new business.Build and maintain account existing database, include client relationships and provide oversight to account activity.Look for opportunities to grow business from existing clients byoffering other products of EBManage renewal process with existing clients and ensure all internal procedures are compiled during the renewal process.Provide insurance consultancy services to the client and add value to clientsCollab with EB team (claim, placement, finance, etc) in targeted accounts, ultimately accountable for success.Build value client oriented, manage client complaints, solve every problem may arise, do discussion with internal  external teamHelp to monitoring aftersales / servicing to all accounts internal  external"
+            ],
+            "qualification": [
+                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as Employee Benefit Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredMust have experience for maintaining employee benefitinsurance on large companyMust Have deep knowledge of Employee Benefit product(esp. Health Insurance Policy)Must be proficient in Ms Office and preparing presentationMust be highly organized and work well in team environment.Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "District Sales Manager",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Control, monitoring, and development sales.Monitoring and development promoter (training, coaching, and counseling promoter).Merchant relation and development."
+            ],
+            "qualification": [
+                "Candidate must possess at least Diploma Degreein any fieldAt least 2Year(s) of working experience in the related field is required for this positionPreferably Staff (non-management  non-supervisor) specialized in Sales - Financial Services (Insurance, Unit Trust, etc) or equivalentFamiliar with MS Office and ExcelFamiliar with North Jakarta area is preferableRequired Skill(s):Have strong Leadership and able to manage Team and AreaHave good Communication skill and Marketing skill with media social"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Business Development Associate",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Acquire, liaise and maintain relationship with retail merchants.Propose and drive implementation for new and recurring merchant programs to boost company top line metrics.Dealing with merchants and principle with Key Account in order to support program promotion and sales improvement.Identify, research and maintain relationship with merchants.Analyzingmarket update, developing sales program based on customer demand, business expansion, trends and competitor activity.Researching ways to increase the value of our products for our clients (examples : missing features, improvements, client feedback)In charge of creating partnerships with brand, online merchant, payment gateway or other partners.Have a depth understanding of both our product and the partners' product in order to create a successful partnership.Prepare an interesting and accurate customized presentation to be presented to potential partners."
+            ],
+            "qualification": [
+                "Bachelor or Diploma Degree.At least 1-2Year(s) of working experience in financial company (preferably with a bank background in acquiring/handlingmerchants).Vast network in local brand /retail merchants preferred.Strong analytical in sales and performance monitoring.Strong negotiation and leadership skills.Excellent communication skills.Adequate ability to write and speak in English"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Business Development Manager - Merchant Acquisition",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Acquire new retail merchants as partners for Indodana’s productsResponsible for end-to-end merchant acquisition pipeline starting from lead generation to commercial negotiations up to the launch of the partnershipDevelop a deep understanding of both our and our partners' productsPrepare presentation and deliver compelling sales pitch to potential partnersDevelop and maintain trusted relationships with new potential partnersConduct market research and benchmarking to identify competitive information on new developments in the marketCollaborate with the internal stakeholders (such as Tech, Marketing, Operations) to ensure successful launch of new partnerships"
+            ],
+            "qualification": [
+                "Result-driven individual with execution mindset and passion for networkingExcellent people relationship skills, yet able to work independently when requiredVast network of contacts in the retail commerce sectorPrior experience in Banking (EDC/Acquiring) or Payment Gateway business, preferredAdequate ability to write and speak in EnglishIndividuals with at least 2 (two) years of relevant work experience"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "General Insurance Marketing",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new General Insurancebusiness accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement"
+            ],
+            "qualification": [
+                "Male/Female Max 35 Years OldMust have minimum 5years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredStrong in marketing/partnership, especially in generating new business and client relationshipMust Have deep knowledge of General InsuranceproductsMust be proficient in Ms Office and preparing presentationHighly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Head of Claim and Placement",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Lead, direct, and coordinate the General Insurance Placement team and After Sale teamResponsible to lead Placement team to obtain insurance quotations for our clients from General Insurance companies within SLAResponsible to lead After Sale team include processing claims, assist clients with endorsements, documents and data keepingNegotiate terms, conditions, and pricing with General Insurance companies on behalf of clientsMaintain good Hit RatioOngoing communication of business strategy and results of the Placement teamOversees the progress of insurance claims to make sure claim decision come out according to SLA and claim appraisal result is justified according to the agreed TCDevelop and maintain relationships with key leaders in General Insurance companiesNegotiate and appeal rejected claims with insuranceRecruit, motivate, coach, evaluate, and retain a quality Placement amp; After Sale teamWork together with the Head of Marketing to grow the business and achieve company’s revenue goalsPut in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfactionContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning and commitment to quality."
+            ],
+            "qualification": [
+                "More than 10 years experience as Placement and After Sale leader in insurance brokerage firmsHave wide network and strong relationship with the key leaders of Insurance companiesHaving a degree or certificate of insurance broker or in insurance is a plusSolid understanding in General insurance products for all line of risks and businessesStrong understanding of insurance terms and conditions and claim appeal processAble to deliver good insurance proposal according to client’s expectations with good SLAExcellent in communication, negotiation, and persuasion skillsGood interpersonal skill and able to work in individual and as member of team"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Health Insurance Account Manager",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new Employee Benefit insurance business accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement."
+            ],
+            "qualification": [
+                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as Employee Benefit Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredMust have experience for maintaining general insuranceon large companyMust Have deep knowledge of Employee BenefitproductMust be proficient in Ms Office and preparing presentationMust be highly organised and work well in team environment.Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Business Development Manager Insurance (All Levels)",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "In charge of creating partnerships with E-Commercethat can benefit Cermati for insurance productsHave a deep understanding of both micro insurance productand the partners' product in order to create a successful partnershipPrepare an interesting and accurate customised presentation to be presented to potential partnersKeep a great ongoing relationships with current partners and offer new ways to grow the partnershipIdentify potential opportunities, create innovative strategies, and implement themResearching ways to increase the value of our products for our clients be it missing features, improvements, client feedback,etcCollaborate with the product team to create an effective strategy"
+            ],
+            "qualification": [
+                "Minimum having a bachelor degree from any majorHaving experience in handling B2B partnership fordigital products, preferably for digital microinsurance productVast network to E-commerce clients is a plusExcellent communication skills, good negotiator, and good presentationAdequate ability to write and speak in EnglishEnergetic, mature, accountable, self-drive, fast learner, and good analytical skills"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Business Development Associate (Jakarta)",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Acquire, liaise and maintain relationships with big local merchants.Propose and drive implementation for new and recurring merchant programs to boost company top line metrics.Dealing with merchants and principle with Key Account in order to support program promotion and sales improvement.Identify, research and maintain relationship with merchants.Analyzingmarket update, developing sales program based on customer demand, business expansion, trends and competitor activity.Researching ways to increase the value of our products for our clients (examples : missing features, improvements, client feedback)In charge of creating partnerships with brand, online merchant, payment gateway or other partners.Have a depth understanding of both our product and the partners' product in order to create a successful partnership.Prepare an interesting and accurate customized presentation to be presented to potential partners."
+            ],
+            "qualification": [
+                "Bachelor or Diploma Degree.At least 1-2Year(s) of working experience in financial company.Vast network in local brand /retail merchants preferred.Strong analytical in sales and performance monitoring.Strong negotiation and leadership skills.Excellent communication skills."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Merchant Relation Officer (Surabaya)",
+            "location": "Surabaya,Indonesia",
+            "description": [
+                "Maintain good relationship with SME offline merchant who using Merchant Apps.Responsible for sales target in their areaProvide training Merchant Apps to store staffEnsure placement POP material promotion in storeDo promotion socialization programto store staff"
+            ],
+            "qualification": [
+                "Candidate must possess at least high school or diploma degreein any field.Background experiences fromLeasing is a plus.At least 1Year(s) of working experience in the related field is required for this position for high school level.Fresh graduate are welcome to apply for diploma degree.Familiar with MS Office (MS Word, MS Excel, amp; MS Power Point).Have Motorcycle and SIM C."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Head of Marketing - General Insurance",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Lead, direct, and coordinate the General Insurance Marketing teamGrow the business and ensure revenue goal is achievedSupport in identifying and developing new business opportunitiesIdentify and explore growth opportunities with current client baseWork together with Placement / Technical team to deliver insurance proposals that are within clientsexpectationsDevelop and maintain relationships with key leaders in insurance companies in General Insurance line tosupport business expansionRecruit, motivate, coach, evaluate, and retain a quality Marketing teamOngoing communication of business strategy and results of the Marketing teamContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning andcommitment to quality.Put in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfaction"
+            ],
+            "qualification": [
+                "More than 10 years experience as Marketing manager in insurance brokerage firmsComfortable with leading team and responsible for the entire team’s achievementHave wide network of potential clientsHave good relationships with insurance companiesSolid understanding in General insurance products for all line of risks and businessesExcellent in communication, negotiation, and persuasion skills"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "District Sales Manager",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the program#39;s sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
+            ],
+            "qualification": [
+                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Head of Marketing - Employee Benefit",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Lead, direct, and coordinate the Employee Benefit Insurance teamGrow the business and ensure revenue goal is achievedSupport in identifying and developing new business opportunities for employee benefit insuranceIdentify and explore growth opportunities with current client baseWork together with Placement / Technical team to deliver insurance proposals that are within clientsexpectationsDevelop and maintain relationships with key leaders in Health Insurance companies to support businessexpansionDirect the After Sale Department including Claim and Data and ensure clients’ claims and inquiries areserviced accordingly to the highest standardPut in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfactionRecruit, motivate, coach, evaluate, and retain a quality teamOngoing communication of business strategy and results of the teamContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning andcommitment to quality."
+            ],
+            "qualification": [
+                "More than 10 years experience as Marketing manager in insurance or brokerage firmsComfortable with leading team and responsible for the entire team’s achievementsHave wide network of potential clientsHave strong relationship with insurance companiesSolid understanding in Employee Benefit insurance products including Health, PA, DPLK and TPAExcellent in selling, communication, negotiation, and persuasion skillsExperience leading After Sale team and negotiating with insurance on claim issues"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Head Of Placement Insurance - Employee Benefit",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Lead, direct, and coordinate the Employee Benefit Insurance Technical / Placement teamResponsible to obtain insurance quotations for our clients from Health Insurance companies within agreed SLANegotiate terms, conditions, and pricing with Health Insurance companies to ensure we can release good insurance proposals for our clientsDevelop and maintain relationships with key leaders in insurance companies in Health Insurance line to support business expansionWork together with Business Development team to grow the business and achieve company’s revenue goalsKeep abreast of trends in Employee Benefit products and servicesExpand our partnerships with more Health insurance companiesMaintain good Hit Ratio (ratio between won and lost deals)Recruit, motivate, coach, evaluate, and retain a quality Placement teamOngoing communication of business strategy and results of the Placement teamContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning and commitment to quality.Put in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfaction"
+            ],
+            "qualification": [
+                "More than 10 years experience as Placement / Technical manager in insurance brokerage firmsComfortable with leading team as the main leaderHave wide network of Insurance companies and strong relationship with the key leadersSolid understanding in Employee Benefit insurance products for all line of risks and businessesExcellent in communication, negotiation, and persuasion skillsAble to deliver good insurance proposal according to client’s expectations with good SLA"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Mutual Fund Business Development Manager - Bandung",
+            "location": "Bandung,Indonesia",
+            "description": [
+                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients"
+            ],
+            "qualification": [
+                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Mutual Fund Business Development Manager",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients."
+            ],
+            "qualification": [
+                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "General Insurance Marketing",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new General Insurancebusiness accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement"
+            ],
+            "qualification": [
+                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredMust have experience for maintaining general insuranceon large companyMust Have deep knowledge of General InsuranceproductMust be proficient in Ms Office and preparing presentationMust be highly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Mutual Fund Business Development Manager",
+            "location": "Surabaya,Indonesia",
+            "description": [
+                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients."
+            ],
+            "qualification": [
+                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "General Insurance Marketing Staff",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new General Insurancebusiness accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement"
+            ],
+            "qualification": [
+                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredStrong in marketing/partnership, especially in generating new business and client relationshipMust Have deep knowledge of General InsuranceproductsMust be proficient in Ms Office and preparing presentationHighly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
             ],
             "posted_by": ""
         }
@@ -257,17 +558,6 @@
         }
     ],
     "Business Operations": [
-        {
-            "title": "Technical Support Specialist",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Create and manage SOP for operational and complaint workflow between the Company and related merchants.Maintain updates of merchant products.Communicate with merchant operational teams for complaint handling and resolution.Learn and adapt to merchant operation flows for complaint management across multiple issues including payment, product issuance, and refunds.Use back office tool and database for complaint monitoring and tracking.Train and lead technical support team.Create and enforce KPI and SLA of ticket management for the technical support team.Review and analyze performance metrics to identify opportunities for performance improvement"
-            ],
-            "qualification": [
-                "MaleMinimum of 3 years supervisory experience in complaint handling  operations environment.Demonstrates ability to process data and use the data to drive decision making.Familiar with sales, payment flows, and post-sales services.Required skill(s): communication, computer, negotiation, complaint handling.Strong interpersonal and communication skills with the ability to communicate effectively.Interest in streamlined flows and efficient processes and able to drive scalability.Display strong ability to drive problem-solving, identify root cause, analyze data details to take appropriate actions.Ability to learn processesAbility to produce specification documents with minimal supervision."
-            ],
-            "posted_by": ""
-        },
         {
             "title": "Credit Analyst",
             "location": "Jakarta,Indonesia",
@@ -542,294 +832,6 @@
             ],
             "qualification": [
                 "Min 4 years of experience handling PR related matters.Min 2 years of experience handling team members.Strong knowledge of communication practices and techniques.Outstanding written and verbal communication skills.Excellent organizational and leadership abilities.Must be able to multitask and work well under pressure."
-            ],
-            "posted_by": ""
-        }
-    ],
-    "Business Development": [
-        {
-            "title": "Business Development Support",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "Handle Product Masterfile and other integration related queries with clients and internal stakeholdersCoordinate with BI and/or Product team to solve discrepancy on data reconciliation and make sure the data recorded in the system is up to dateDrive analysis and insight on current products and support market research on targeted clientAssist in product configuration based on business requirements, analyze changes and making sure the end-to-end results are per expectationPerform monthly invoice reconciliation for existing clients and partnersCompile documentation such as correspondence and legal documentation to ensure projects are tracked properlyCoordinate with the Claims and CS team to resolve problems/ blockers regarding claims/ queries from clientsReport to Business Development Managers in providing support for proposal preparation among other key activitiesLiaise with the Business Development Managers in providing support"
-            ],
-            "qualification": [
-                "Minimum Bachelor Degree from Business related major from reputable universities.Detail oriented and proficient in using Microsoft officePreferably have exposure in a similar Business Development or Sales Support rolePreferably having work experience in consulting firm as analyst, insurance company or any tech company will be a plus pointAbility to effectively manage multiple tasks of varying complexities and meet deadlinesWilling to learn new things and adapt with fast paced environmentAnalytically proficient and highly experienced with conducting analysis"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Insurance Technical Manager",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Design customized insurance products according to client requirements  communicate it to the insurance partner, product manager, finance, and another stakeholders.Work together with business development to meet and analyse partner's needsAccompany business development when meeting with a prospect client and help to find out how insurance can be the client's marketing strategy / added value.Provide daily and weekly reporting to VP Insurance"
-            ],
-            "qualification": [
-                "Minimum 3 years of experience in insurance industryExperienced in general insurance industry, especially business/productExperienced indeveloping general microinsurance productExcellent written and verbal communication skillsUnderstand all aspects of a successful general insurance product throughout its life cycleGreat understanding of trend, recent news, ins and outs about insurance and fintech is a plusAble to work independently or in a team"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Business Development Manager - Employee Loan",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Identify and research and acquire potential clientsDevelop and maintain client relationshipsDevelop mutually beneficial proposalsNegotiate contract terms with clients and communicate with stakeholdersMonitor project and product teams to ensure contracts are executed as agreedGather useful information from customer and competitor dataMake and give presentations to prospective clients and internal executivesCreate and implement processes and policies to support the overall businessTrack, identify and add qualified prospects to sales pipelineTrack and report on the status of proposal componentsConduct ongoing market researchWork with the pricing department/decision maker to create rate proposalsDrive the partnership end to end processPrepare and submit partnership agreements"
-            ],
-            "qualification": [
-                "Experienced and has proven performance as BD or in acquiring B2B Clients for HR system or services, in company with B2B employee loan productsHas many HR/finance network or databaseMust Have deep knowledge of Employee LoanproductMust be proficient in Ms Office and preparing presentationMust be highly organized and work well in team environment.Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business."
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Health Insurance Claim Head",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Lead the Employee Benefit Insurance After Sale team including Data and Claim teamResponsibilities of After Sale team include processing claims, assist clients with endorsements, documents and data keepingOversees insurance claims that are in progress to make sure claim decision come out according to SLA and claim appraisal result is justified according to the agreed TCAssist clients who are admitted to hospital by coordinating with insurance and hospitals when necessaryMake daily, weekly, and monthly report for claim updatesCustomer care helpline – 24 hoursDevelop and maintain relationships with insurance companies’ claim departmentsNegotiate and appeal rejected claims with insuranceMonitor endorsement process and make sure SLA is achievedCheck and make sure member cards are correct and send them to the clients on timeAssist with client closing process by coordinating with insurance and making sure the policy T and C is as per agreedPut in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfactionContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning and commitment to quality."
-            ],
-            "qualification": [
-                "More than 5 years experience as Claim Manager in insurance or brokerage firmsHave good relationships with insurance companiesExcellent in communication, negotiation, and persuasion skillsStrong adherence to SLA and maintaining clients expectationsAble to respond to clients inquiry with lightning speed and accuracyStrong understanding of insurance terms and conditions and claim appeal processBackground in medicine is preferred but not a must"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "District Sales Manager (Jawa timur)",
-            "location": "surabaya,Indonesia",
-            "description": [
-                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the programs sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
-            ],
-            "qualification": [
-                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Distric Sales Manager (Bali)",
-            "location": "Bali,Indonesia",
-            "description": [
-                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the programs sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
-            ],
-            "qualification": [
-                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Insurance Business Development - Employee Benefit",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "Maintaining existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new Employee Benefit accountsDevelop prospecting strategies to increase opportunities for new business.Build and maintain account existing database, include client relationships and provide oversight to account activity.Look for opportunities to grow business from existing clients byoffering other products of EBManage renewal process with existing clients and ensure all internal procedures are compiled during the renewal process.Provide insurance consultancy services to the client and add value to clientsCollab with EB team (claim, placement, finance, etc) in targeted accounts, ultimately accountable for success.Build value client oriented, manage client complaints, solve every problem may arise, do discussion with internal  external teamHelp to monitoring aftersales / servicing to all accounts internal  external"
-            ],
-            "qualification": [
-                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as Employee Benefit Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredMust have experience for maintaining employee benefitinsurance on large companyMust Have deep knowledge of Employee Benefit product(esp. Health Insurance Policy)Must be proficient in Ms Office and preparing presentationMust be highly organized and work well in team environment.Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business."
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "District Sales Manager",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Control, monitoring, and development sales.Monitoring and development promoter (training, coaching, and counseling promoter).Merchant relation and development."
-            ],
-            "qualification": [
-                "Candidate must possess at least Diploma Degreein any fieldAt least 2Year(s) of working experience in the related field is required for this positionPreferably Staff (non-management  non-supervisor) specialized in Sales - Financial Services (Insurance, Unit Trust, etc) or equivalentFamiliar with MS Office and ExcelFamiliar with North Jakarta area is preferableRequired Skill(s):Have strong Leadership and able to manage Team and AreaHave good Communication skill and Marketing skill with media social"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Business Development Associate",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Acquire, liaise and maintain relationship with retail merchants.Propose and drive implementation for new and recurring merchant programs to boost company top line metrics.Dealing with merchants and principle with Key Account in order to support program promotion and sales improvement.Identify, research and maintain relationship with merchants.Analyzingmarket update, developing sales program based on customer demand, business expansion, trends and competitor activity.Researching ways to increase the value of our products for our clients (examples : missing features, improvements, client feedback)In charge of creating partnerships with brand, online merchant, payment gateway or other partners.Have a depth understanding of both our product and the partners' product in order to create a successful partnership.Prepare an interesting and accurate customized presentation to be presented to potential partners."
-            ],
-            "qualification": [
-                "Bachelor or Diploma Degree.At least 1-2Year(s) of working experience in financial company (preferably with a bank background in acquiring/handlingmerchants).Vast network in local brand /retail merchants preferred.Strong analytical in sales and performance monitoring.Strong negotiation and leadership skills.Excellent communication skills.Adequate ability to write and speak in English"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Business Development Manager - Merchant Acquisition",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Acquire new retail merchants as partners for Indodana’s productsResponsible for end-to-end merchant acquisition pipeline starting from lead generation to commercial negotiations up to the launch of the partnershipDevelop a deep understanding of both our and our partners' productsPrepare presentation and deliver compelling sales pitch to potential partnersDevelop and maintain trusted relationships with new potential partnersConduct market research and benchmarking to identify competitive information on new developments in the marketCollaborate with the internal stakeholders (such as Tech, Marketing, Operations) to ensure successful launch of new partnerships"
-            ],
-            "qualification": [
-                "Result-driven individual with execution mindset and passion for networkingExcellent people relationship skills, yet able to work independently when requiredVast network of contacts in the retail commerce sectorPrior experience in Banking (EDC/Acquiring) or Payment Gateway business, preferredAdequate ability to write and speak in EnglishIndividuals with at least 2 (two) years of relevant work experience"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Business Development Manager",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Acquire new retail merchants as partners for Indodana’s productsResponsible for end-to-end merchant acquisition pipeline starting from lead generation to commercial negotiations up to the launch of the partnershipDevelop a deep understanding of both our and our partners' productsPrepare presentation and deliver compelling sales pitch to potential partnersDevelop and maintain trusted relationships with new potential partnersConduct market research and benchmarking to identify competitive information on new developments in the marketCollaborate with the internal stakeholders (such as Tech, Marketing, Operations) to ensure successful launch of new partnerships"
-            ],
-            "qualification": [
-                "Result-driven individual with execution mindset and passion for networkingExcellent people relationship skills, yet able to work independently when requiredVast network of contacts in the retail commerce sectorPrior experience in Banking (EDC/Acquiring) or Payment Gateway business, preferredAdequate ability to write and speak in EnglishIndividuals with at least 2 (two) years of relevant work experience"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "General Insurance Marketing",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new General Insurancebusiness accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement"
-            ],
-            "qualification": [
-                "Male/Female Max 35 Years OldMust have minimum 5years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredStrong in marketing/partnership, especially in generating new business and client relationshipMust Have deep knowledge of General InsuranceproductsMust be proficient in Ms Office and preparing presentationHighly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Head of Claim and Placement",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Lead, direct, and coordinate the General Insurance Placement team and After Sale teamResponsible to lead Placement team to obtain insurance quotations for our clients from General Insurance companies within SLAResponsible to lead After Sale team include processing claims, assist clients with endorsements, documents and data keepingNegotiate terms, conditions, and pricing with General Insurance companies on behalf of clientsMaintain good Hit RatioOngoing communication of business strategy and results of the Placement teamOversees the progress of insurance claims to make sure claim decision come out according to SLA and claim appraisal result is justified according to the agreed TCDevelop and maintain relationships with key leaders in General Insurance companiesNegotiate and appeal rejected claims with insuranceRecruit, motivate, coach, evaluate, and retain a quality Placement amp; After Sale teamWork together with the Head of Marketing to grow the business and achieve company’s revenue goalsPut in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfactionContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning and commitment to quality."
-            ],
-            "qualification": [
-                "More than 10 years experience as Placement and After Sale leader in insurance brokerage firmsHave wide network and strong relationship with the key leaders of Insurance companiesHaving a degree or certificate of insurance broker or in insurance is a plusSolid understanding in General insurance products for all line of risks and businessesStrong understanding of insurance terms and conditions and claim appeal processAble to deliver good insurance proposal according to client’s expectations with good SLAExcellent in communication, negotiation, and persuasion skillsGood interpersonal skill and able to work in individual and as member of team"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Health Insurance Account Manager",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new Employee Benefit insurance business accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement."
-            ],
-            "qualification": [
-                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as Employee Benefit Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredMust have experience for maintaining general insuranceon large companyMust Have deep knowledge of Employee BenefitproductMust be proficient in Ms Office and preparing presentationMust be highly organised and work well in team environment.Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business."
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Business Development Manager Insurance (All Levels)",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "In charge of creating partnerships with E-Commercethat can benefit Cermati for insurance productsHave a deep understanding of both micro insurance productand the partners' product in order to create a successful partnershipPrepare an interesting and accurate customised presentation to be presented to potential partnersKeep a great ongoing relationships with current partners and offer new ways to grow the partnershipIdentify potential opportunities, create innovative strategies, and implement themResearching ways to increase the value of our products for our clients be it missing features, improvements, client feedback,etcCollaborate with the product team to create an effective strategy"
-            ],
-            "qualification": [
-                "Minimum having a bachelor degree from any majorHaving experience in handling B2B partnership fordigital products, preferably for digital microinsurance productVast network to E-commerce clients is a plusExcellent communication skills, good negotiator, and good presentationAdequate ability to write and speak in EnglishEnergetic, mature, accountable, self-drive, fast learner, and good analytical skills"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Business Development Associate (Jakarta)",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Acquire, liaise and maintain relationships with big local merchants.Propose and drive implementation for new and recurring merchant programs to boost company top line metrics.Dealing with merchants and principle with Key Account in order to support program promotion and sales improvement.Identify, research and maintain relationship with merchants.Analyzingmarket update, developing sales program based on customer demand, business expansion, trends and competitor activity.Researching ways to increase the value of our products for our clients (examples : missing features, improvements, client feedback)In charge of creating partnerships with brand, online merchant, payment gateway or other partners.Have a depth understanding of both our product and the partners' product in order to create a successful partnership.Prepare an interesting and accurate customized presentation to be presented to potential partners."
-            ],
-            "qualification": [
-                "Bachelor or Diploma Degree.At least 1-2Year(s) of working experience in financial company.Vast network in local brand /retail merchants preferred.Strong analytical in sales and performance monitoring.Strong negotiation and leadership skills.Excellent communication skills."
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Merchant Relation Officer (Surabaya)",
-            "location": "Surabaya,Indonesia",
-            "description": [
-                "Maintain good relationship with SME offline merchant who using Merchant Apps.Responsible for sales target in their areaProvide training Merchant Apps to store staffEnsure placement POP material promotion in storeDo promotion socialization programto store staff"
-            ],
-            "qualification": [
-                "Candidate must possess at least high school or diploma degreein any field.Background experiences fromLeasing is a plus.At least 1Year(s) of working experience in the related field is required for this position for high school level.Fresh graduate are welcome to apply for diploma degree.Familiar with MS Office (MS Word, MS Excel, amp; MS Power Point).Have Motorcycle and SIM C."
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Head of Marketing - General Insurance",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Lead, direct, and coordinate the General Insurance Marketing teamGrow the business and ensure revenue goal is achievedSupport in identifying and developing new business opportunitiesIdentify and explore growth opportunities with current client baseWork together with Placement / Technical team to deliver insurance proposals that are within clientsexpectationsDevelop and maintain relationships with key leaders in insurance companies in General Insurance line tosupport business expansionRecruit, motivate, coach, evaluate, and retain a quality Marketing teamOngoing communication of business strategy and results of the Marketing teamContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning andcommitment to quality.Put in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfaction"
-            ],
-            "qualification": [
-                "More than 10 years experience as Marketing manager in insurance brokerage firmsComfortable with leading team and responsible for the entire team’s achievementHave wide network of potential clientsHave good relationships with insurance companiesSolid understanding in General insurance products for all line of risks and businessesExcellent in communication, negotiation, and persuasion skills"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "District Sales Manager",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the program#39;s sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
-            ],
-            "qualification": [
-                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Head of Marketing - Employee Benefit",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Lead, direct, and coordinate the Employee Benefit Insurance teamGrow the business and ensure revenue goal is achievedSupport in identifying and developing new business opportunities for employee benefit insuranceIdentify and explore growth opportunities with current client baseWork together with Placement / Technical team to deliver insurance proposals that are within clientsexpectationsDevelop and maintain relationships with key leaders in Health Insurance companies to support businessexpansionDirect the After Sale Department including Claim and Data and ensure clients’ claims and inquiries areserviced accordingly to the highest standardPut in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfactionRecruit, motivate, coach, evaluate, and retain a quality teamOngoing communication of business strategy and results of the teamContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning andcommitment to quality."
-            ],
-            "qualification": [
-                "More than 10 years experience as Marketing manager in insurance or brokerage firmsComfortable with leading team and responsible for the entire team’s achievementsHave wide network of potential clientsHave strong relationship with insurance companiesSolid understanding in Employee Benefit insurance products including Health, PA, DPLK and TPAExcellent in selling, communication, negotiation, and persuasion skillsExperience leading After Sale team and negotiating with insurance on claim issues"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Head Of Placement Insurance - Employee Benefit",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Lead, direct, and coordinate the Employee Benefit Insurance Technical / Placement teamResponsible to obtain insurance quotations for our clients from Health Insurance companies within agreed SLANegotiate terms, conditions, and pricing with Health Insurance companies to ensure we can release good insurance proposals for our clientsDevelop and maintain relationships with key leaders in insurance companies in Health Insurance line to support business expansionWork together with Business Development team to grow the business and achieve company’s revenue goalsKeep abreast of trends in Employee Benefit products and servicesExpand our partnerships with more Health insurance companiesMaintain good Hit Ratio (ratio between won and lost deals)Recruit, motivate, coach, evaluate, and retain a quality Placement teamOngoing communication of business strategy and results of the Placement teamContinuously improve current systems and processesPromote a culture of high performance and continuous improvement that values learning and commitment to quality.Put in place control mechanisms that enable achievement of high levels of customer satisfaction.Ensure quality and service excellence to clients and 5/5 client satisfaction"
-            ],
-            "qualification": [
-                "More than 10 years experience as Placement / Technical manager in insurance brokerage firmsComfortable with leading team as the main leaderHave wide network of Insurance companies and strong relationship with the key leadersSolid understanding in Employee Benefit insurance products for all line of risks and businessesExcellent in communication, negotiation, and persuasion skillsAble to deliver good insurance proposal according to client’s expectations with good SLA"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Mutual Fund Business Development Manager - Bandung",
-            "location": "Bandung,Indonesia",
-            "description": [
-                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients"
-            ],
-            "qualification": [
-                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Mutual Fund Business Development Manager",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients."
-            ],
-            "qualification": [
-                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "General Insurance Marketing",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new General Insurancebusiness accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement"
-            ],
-            "qualification": [
-                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredMust have experience for maintaining general insuranceon large companyMust Have deep knowledge of General InsuranceproductMust be proficient in Ms Office and preparing presentationMust be highly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Mutual Fund Business Development Manager",
-            "location": "Surabaya,Indonesia",
-            "description": [
-                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients."
-            ],
-            "qualification": [
-                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "General Insurance Marketing Staff",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new General Insurancebusiness accounts.Develop prospecting strategies to increase opportunities for new business.Build and maintain client relationships and provide oversight to account activity.Working closely with insurance partner for handling client claim settlement"
-            ],
-            "qualification": [
-                "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredStrong in marketing/partnership, especially in generating new business and client relationshipMust Have deep knowledge of General InsuranceproductsMust be proficient in Ms Office and preparing presentationHighly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
             ],
             "posted_by": ""
         }
