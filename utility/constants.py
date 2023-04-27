@@ -1,6 +1,9 @@
+"""Constants Module."""
 from enum import Enum
 
+
 class Constants(Enum):
+    """This class has all the hardcoded values required."""
 
     PARENT_URL = "https://www.cermati.com/karir"
 
