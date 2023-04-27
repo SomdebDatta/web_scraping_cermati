@@ -3,7 +3,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-from constants import Constants
+from utility.constants import Constants
 from utility.utils import remove_html_tags
 
 
