@@ -5,6 +5,7 @@
 *.npy
 *.pth
 *.ipynb
+*.pdf
 
 .idea
 .vscode
