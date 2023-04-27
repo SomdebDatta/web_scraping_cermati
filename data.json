@@ -1,39 +1,6 @@
 {
     "Engineering": [
         {
-            "title": "Lead Data Engineer- Bangalore",
-            "location": "Bengaluru,India",
-            "description": [
-                "The candidate should be able to design high performance, maintainable, extensible software architectures to solve abstract business problems. Here are some example business problems:\"We want to reduce the time for productionizing experimental machine learning features to 1 day\"\"We want to completely automate the credit approval process while maintaining an accuracy of 90% when compared with manual approval\"They should be able to translate the high level design into a series of tasks that can be executed by other software engineers working in parallelThe high level designs are usually design documents consisting of relevant block diagrams, UML diagrams meant to be consumed by other engineering leaders and software engineersThey must be able to work with international teams effectively. They will be required to communicate with:Clients who may not necessarily be software engineers (marketing teams, business development team etc)Software engineers and tech leads to communicate the design in a simple yet accurate language without compromising details.They would be leading a team of talented but possibly inexperienced engineers who will look to you for mentorship. In a typical day, candidates would be spending10% of the time project management, 20% of the time doing code review and mentorship, 20% of the time coding (evaluating technologies, doing PoC, etc) 50% of the time requirement gathering, high level design, low level design, roadmap etcIn summary, We are looking for candidates with a “tech first” approach. Candidates must be first and foremost technically strong. They would need experience of people management as a secondary requirement."
-            ],
-            "qualification": [
-                "The following technical skills would be useful:Candidates must be able to understand the trade off between performance, simplicity, maintainability and timeline constraints when developing software solutionsShould have a minimum of4+ yrs of experience in data engineering.Strong hands on experience in java, python is required. Must have shipped multiple projects with a major hands on contribution to each project.Experience in Big data technologies: hadoop ecosystem (map reduce, spark, kafka)Experience in different storage technologies: OLTP like postgres, OLAP like redshift, Google bigquery, NoSQl like redis, hbase, kafkaFamiliarity with machine learning algorithms and concepts (gradient descent, logistic regression) and software libraries like pandas, tensorflow, etc   "
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "SEIT ( Software Engineer in Test)",
-            "location": "Bengaluru,India",
-            "description": [
-                "Create detailed, comprehensive and well-structured test plans and test cases.Write test scripts to automate complex test scenarios for web, mobile and/or API.Execute and maintain the automation scripts and report any issues to relevant stakeholders.Create code that’s easy to read and work closely with the team to maintain, improve and clean the code.Review code and learn the software engineering best practices.Attend daily stand up meetings, sprint planning/backlog reviews meetings, and communicate project/development status to internal and external teams in a timely fashion.Work closely with Engineers and Quality Assurance teams in Indonesia to understand priorities and to resolve issues."
-            ],
-            "qualification": [
-                "Bachelor's degree in Computer Science or Information Systems or other similar fields.At least 3 years of experience in Automation Testing of software applications.Experience in working with Web, Mobile and API - manual and automation testing.Deep knowledge of Manual  Automation test methodologies and principles.Experience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, etc.Highly experienced with testing and project management tools such as Jira, TestRail, phabricator, Cucumber, etc.Hands-on experience with automation tools like selenium, appium, testNG, etc. for web and mobile applications.Experience in testing API using postman, Jmeter, bluebird, superAgent, chai, etc.Experience in CI/CD using Jenkins, GITLab or similar continuous integration tools, release and change management tools like GIT.High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands.Noted: Only Bangalore Located Candidates are preffered. (non-remote)"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Lead SEIT (Lead Software Engineer in Test)",
-            "location": "Bengaluru,India",
-            "description": [
-                "Responsible for test automation framework development for mobile (android and ios) and webAct as a mentor to the team regarding projects, tasks, and operations.Act as a trainer and keep the team up to date with the latest technologies.Ensure that project deadlines are met.Responsible for managing the team and evaluating team performance.Be an active participant in hiring and help grow the team.Lead/contribute to engineering efforts from design to implementation, solving complex technical challenges.Attend daily stand up meetings, sprint planning/backlog reviews meetings, and communicate project/development status to teams in a timely fashion.Work closely with Engineers and Quality Assurance teams in Indonesia to understand priorities and to resolve issues."
-            ],
-            "qualification": [
-                "Bachelor's degree in Computer Science or Information Systems or other similar fieldsAt least 5 years of hands-on experience in Automation Testing of Web, Mobile and/or API applications.At least 3 years of experience in managing, training and mentoring teams.Deep knowledge of Manual  Automation test methodologies and principles.Experience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, etc.Highly experienced with testing and project management tools such as Jira, TestRail, phabricator, Cucumber, etc.Hands-on experience with automation tools like selenium, appium, testNG, etc. for web and mobile applications.Experience in testing API using postman, Jmeter, bluebird, superAgent, chai, etc.Experience in CI/CD using Jenkins, GITLab or similar continuous integration tools, release and change management tools like GIT.High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands.Note: Only Bangalore Located candidates are Preferred. (non-remote)"
-            ],
-            "posted_by": ""
-        },
-        {
             "title": "Data Engineer - India",
             "location": "Bengaluru,India",
             "description": [
@@ -45,13 +12,13 @@
             "posted_by": ""
         },
         {
-            "title": "Software Engineer In Test Automation Testing",
-            "location": "Jakarta,Indonesia",
+            "title": "Lead Data Engineer- Bangalore",
+            "location": "Bengaluru,India",
             "description": [
-                "Create detailed, comprehensive and well-structured test plans and test casesDesign, develop and execute automation scripts using open source tools that is fast, scalable, easy to monitor and maintainCreate code that's easy to readAble to perform Test Automation and set up frameworks on multiple application platforms like Web, Mobile - Android and APIWork with the team to maintain, improve and clean your codeReview each other's code and learn the software engineering best practicesWork with deployments teams and resolve issues for the systemBuild and manage automated build/test/deployment environments"
+                "The candidate should be able to design high performance, maintainable, extensible software architectures to solve abstract business problems. Here are some example business problems:\"We want to reduce the time for productionizing experimental machine learning features to 1 day\"\"We want to completely automate the credit approval process while maintaining an accuracy of 90% when compared with manual approval\"They should be able to translate the high level design into a series of tasks that can be executed by other software engineers working in parallelThe high level designs are usually design documents consisting of relevant block diagrams, UML diagrams meant to be consumed by other engineering leaders and software engineersThey must be able to work with international teams effectively. They will be required to communicate with:Clients who may not necessarily be software engineers (marketing teams, business development team etc)Software engineers and tech leads to communicate the design in a simple yet accurate language without compromising details.They would be leading a team of talented but possibly inexperienced engineers who will look to you for mentorship. In a typical day, candidates would be spending10% of the time project management, 20% of the time doing code review and mentorship, 20% of the time coding (evaluating technologies, doing PoC, etc) 50% of the time requirement gathering, high level design, low level design, roadmap etcIn summary, We are looking for candidates with a “tech first” approach. Candidates must be first and foremost technically strong. They would need experience of people management as a secondary requirement."
             ],
             "qualification": [
-                "At least 3 years of experience in Automation Testing of software applicationsExperience of working with Web, Mobile and API Testing in both manual  automation testingDeep knowledge of Manual  Automation test methodologies and principlesExperience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, Ruby, etc.Highly experienced with testing tools such as Jira, TestRail, Git, Appium, Selenium,Webdriver.io, RestAssured, TestNG, Cucumber, CI/CD pipelinesHigh level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands"
+                "The following technical skills would be useful:Candidates must be able to understand the trade off between performance, simplicity, maintainability and timeline constraints when developing software solutionsShould have a minimum of4+ yrs of experience in data engineering.Strong hands on experience in java, python is required. Must have shipped multiple projects with a major hands on contribution to each project.Experience in Big data technologies: hadoop ecosystem (map reduce, spark, kafka)Experience in different storage technologies: OLTP like postgres, OLAP like redshift, Google bigquery, NoSQl like redis, hbase, kafkaFamiliarity with machine learning algorithms and concepts (gradient descent, logistic regression) and software libraries like pandas, tensorflow, etc   "
             ],
             "posted_by": ""
         },
@@ -67,13 +34,35 @@
             "posted_by": ""
         },
         {
-            "title": "Senior Software Quality Assurance .",
-            "location": "Jakarta,Indonesia",
+            "title": "SEIT ( Software Engineer in Test)",
+            "location": "Bengaluru,India",
             "description": [
-                "Create detailed, comprehensive and well-structured test plans and test cases which can be leveraged by all teams including the Automation team.Perform all types of testing to ensure overall quality of the Product for better customer satisfaction like user interface testing, functionality testing, performance testing, regression testing, integration testing, etc.Create  manage bug reports and communicate with the teamCollaborate with Engineering, UI/UX, Infrastructure and Product Management teams.Support the team by acting as project PIC and report the consolidated status to the QA Lead/Manager.Help train and mentor new team members.Be an active part of analysis, design and planning activities.Be an enthusiastic advocate for good Agile practices.Eager to learn and grow as a professional."
+                "Create detailed, comprehensive and well-structured test plans and test cases.Write test scripts to automate complex test scenarios for web, mobile and/or API.Execute and maintain the automation scripts and report any issues to relevant stakeholders.Create code that’s easy to read and work closely with the team to maintain, improve and clean the code.Review code and learn the software engineering best practices.Attend daily stand up meetings, sprint planning/backlog reviews meetings, and communicate project/development status to internal and external teams in a timely fashion.Work closely with Engineers and Quality Assurance teams in Indonesia to understand priorities and to resolve issues."
             ],
             "qualification": [
-                "Bachelor's degree in Computer Science or Information Systems or other similar fieldsMinimum 3 years experience in Quality Assurance (Manual or automation)Experience in team training and mentoring.Experience in working with Web as well as Mobile applications (iOS  Android)Experience in API testing using tools like Postman, Jmeter, SoapUI, etc.Experience related to HTTP debugging on web and mobile based applications (iOS  Android) using Developer tools/console.High level of comfort in using SQL for in-depth data testing.Experience in using test case and bug management tools like Phabricator, Test Rail, etc.Experience in working in Agile process methodology.Good interpersonal and communication skills. Should be comfortable with written and spoken English.Good analytical and problem-solving skills.Able to work independently or with limited assistance.Fin-Tech domain knowledge. Working experience with Financial Services products is a plus but not mandatory.Experience in programming languages like NodeJS, Java, Python, Ruby, etc is a plus but not mandatory.Experience in Automation Testing using frameworks like Appium, Selenium, TestNG, Cucumber, TestCafe, NightwatchJS, etc. is a plus but not mandatory.Experience in CI/CD process using Jenkins, Gitlab, etc. is a plus but not mandatory."
+                "Bachelor's degree in Computer Science or Information Systems or other similar fields.At least 3 years of experience in Automation Testing of software applications.Experience in working with Web, Mobile and API - manual and automation testing.Deep knowledge of Manual  Automation test methodologies and principles.Experience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, etc.Highly experienced with testing and project management tools such as Jira, TestRail, phabricator, Cucumber, etc.Hands-on experience with automation tools like selenium, appium, testNG, etc. for web and mobile applications.Experience in testing API using postman, Jmeter, bluebird, superAgent, chai, etc.Experience in CI/CD using Jenkins, GITLab or similar continuous integration tools, release and change management tools like GIT.High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands.Noted: Only Bangalore Located Candidates are preffered. (non-remote)"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Software Engineer In Test Automation Testing",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Create detailed, comprehensive and well-structured test plans and test casesDesign, develop and execute automation scripts using open source tools that is fast, scalable, easy to monitor and maintainCreate code that's easy to readAble to perform Test Automation and set up frameworks on multiple application platforms like Web, Mobile - Android and APIWork with the team to maintain, improve and clean your codeReview each other's code and learn the software engineering best practicesWork with deployments teams and resolve issues for the systemBuild and manage automated build/test/deployment environments"
+            ],
+            "qualification": [
+                "At least 3 years of experience in Automation Testing of software applicationsExperience of working with Web, Mobile and API Testing in both manual  automation testingDeep knowledge of Manual  Automation test methodologies and principlesExperience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, Ruby, etc.Highly experienced with testing tools such as Jira, TestRail, Git, Appium, Selenium,Webdriver.io, RestAssured, TestNG, Cucumber, CI/CD pipelinesHigh level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Lead SEIT (Lead Software Engineer in Test)",
+            "location": "Bengaluru,India",
+            "description": [
+                "Responsible for test automation framework development for mobile (android and ios) and webAct as a mentor to the team regarding projects, tasks, and operations.Act as a trainer and keep the team up to date with the latest technologies.Ensure that project deadlines are met.Responsible for managing the team and evaluating team performance.Be an active participant in hiring and help grow the team.Lead/contribute to engineering efforts from design to implementation, solving complex technical challenges.Attend daily stand up meetings, sprint planning/backlog reviews meetings, and communicate project/development status to teams in a timely fashion.Work closely with Engineers and Quality Assurance teams in Indonesia to understand priorities and to resolve issues."
+            ],
+            "qualification": [
+                "Bachelor's degree in Computer Science or Information Systems or other similar fieldsAt least 5 years of hands-on experience in Automation Testing of Web, Mobile and/or API applications.At least 3 years of experience in managing, training and mentoring teams.Deep knowledge of Manual  Automation test methodologies and principles.Experience with Agile process management methodologyProficiency in, at least, one programming language such as Javascript (preferably), Java, Python, etc.Highly experienced with testing and project management tools such as Jira, TestRail, phabricator, Cucumber, etc.Hands-on experience with automation tools like selenium, appium, testNG, etc. for web and mobile applications.Experience in testing API using postman, Jmeter, bluebird, superAgent, chai, etc.Experience in CI/CD using Jenkins, GITLab or similar continuous integration tools, release and change management tools like GIT.High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)Ability to spike and choose appropriate automated testing tools for the given problem statementKnowledge of Performance  Security Testing and Linux/Unix commands.Note: Only Bangalore Located candidates are Preferred. (non-remote)"
             ],
             "posted_by": ""
         },
@@ -90,6 +79,17 @@
         },
         {
             "title": "Senior Software Quality Assurance",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Create detailed, comprehensive and well-structured test plans and test cases which can be leveraged by all teams including the Automation team.Perform all types of testing to ensure overall quality of the Product for better customer satisfaction like user interface testing, functionality testing, performance testing, regression testing, integration testing, etc.Create  manage bug reports and communicate with the teamCollaborate with Engineering, UI/UX, Infrastructure and Product Management teams.Support the team by acting as project PIC and report the consolidated status to the QA Lead/Manager.Help train and mentor new team members.Be an active part of analysis, design and planning activities.Be an enthusiastic advocate for good Agile practices.Eager to learn and grow as a professional."
+            ],
+            "qualification": [
+                "Bachelor's degree in Computer Science or Information Systems or other similar fieldsMinimum 3 years experience in Quality Assurance (Manual or automation)Experience in team training and mentoring.Experience in working with Web as well as Mobile applications (iOS  Android)Experience in API testing using tools like Postman, Jmeter, SoapUI, etc.Experience related to HTTP debugging on web and mobile based applications (iOS  Android) using Developer tools/console.High level of comfort in using SQL for in-depth data testing.Experience in using test case and bug management tools like Phabricator, Test Rail, etc.Experience in working in Agile process methodology.Good interpersonal and communication skills. Should be comfortable with written and spoken English.Good analytical and problem-solving skills.Able to work independently or with limited assistance.Fin-Tech domain knowledge. Working experience with Financial Services products is a plus but not mandatory.Experience in programming languages like NodeJS, Java, Python, Ruby, etc is a plus but not mandatory.Experience in Automation Testing using frameworks like Appium, Selenium, TestNG, Cucumber, TestCafe, NightwatchJS, etc. is a plus but not mandatory.Experience in CI/CD process using Jenkins, Gitlab, etc. is a plus but not mandatory."
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Senior Software Quality Assurance .",
             "location": "Jakarta,Indonesia",
             "description": [
                 "Create detailed, comprehensive and well-structured test plans and test cases which can be leveraged by all teams including the Automation team.Perform all types of testing to ensure overall quality of the Product for better customer satisfaction like user interface testing, functionality testing, performance testing, regression testing, integration testing, etc.Create  manage bug reports and communicate with the teamCollaborate with Engineering, UI/UX, Infrastructure and Product Management teams.Support the team by acting as project PIC and report the consolidated status to the QA Lead/Manager.Help train and mentor new team members.Be an active part of analysis, design and planning activities.Be an enthusiastic advocate for good Agile practices.Eager to learn and grow as a professional."
@@ -177,19 +177,6 @@
             "posted_by": ""
         }
     ],
-    "Marketing Technology": [
-        {
-            "title": "Junior Business Intelligence Analyst",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Interpreting data, analyzing results using query, data statistical techniques.Create robust, reusable data querying, transformation, and visualization processes using tools such as Excel, SQL, Big Query, Python, R and other big data tools.Develop analytical reports and represent large, complex sets of data through visual representation.Present information in a way that drives fact based decision making.Propose and define new business process improvement opportunities based on the data to drive business impact.Work with management to prioritize business and information needs."
-            ],
-            "qualification": [
-                "Having bachelor degreeor master degreein Information System, Computer Science, Math, Statistics or related field.Fresh graduates are welcome to apply. / Up to 2 years experienceExpert in SQL, have the ability to write advanced DB queries (able to use Python/R/Java/Javascript is desirable).Ability to quickly disseminate data to find key trends, as well as the ability to dive deep and mine the data behind these.Comfortable working with datasets containing millions of rows and creating complex visualizations from raw data in a live dashboard environment.Excellent written and verbal communication skills.Experience working with analytical tools (Jupyter, Python, Hive, BigQuery ML) is a plusAbility to work well and deliver under pressure"
-            ],
-            "posted_by": ""
-        }
-    ],
     "Business Development": [
         {
             "title": "Insurance Partnership Manager",
@@ -247,17 +234,6 @@
             "posted_by": ""
         },
         {
-            "title": "District Sales Manager (Jawa timur)",
-            "location": "surabaya,Indonesia",
-            "description": [
-                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the programs sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
-            ],
-            "qualification": [
-                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
-            ],
-            "posted_by": ""
-        },
-        {
             "title": "Distric Sales Manager (Bali)",
             "location": "Bali,Indonesia",
             "description": [
@@ -280,17 +256,6 @@
             "posted_by": ""
         },
         {
-            "title": "District Sales Manager",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Control, monitoring, and development sales.Monitoring and development promoter (training, coaching, and counseling promoter).Merchant relation and development."
-            ],
-            "qualification": [
-                "Candidate must possess at least Diploma Degreein any fieldAt least 2Year(s) of working experience in the related field is required for this positionPreferably Staff (non-management  non-supervisor) specialized in Sales - Financial Services (Insurance, Unit Trust, etc) or equivalentFamiliar with MS Office and ExcelFamiliar with North Jakarta area is preferableRequired Skill(s):Have strong Leadership and able to manage Team and AreaHave good Communication skill and Marketing skill with media social"
-            ],
-            "posted_by": ""
-        },
-        {
             "title": "Business Development Associate",
             "location": "Jakarta,Indonesia",
             "description": [
@@ -298,6 +263,17 @@
             ],
             "qualification": [
                 "Bachelor or Diploma Degree.At least 1-2Year(s) of working experience in financial company (preferably with a bank background in acquiring/handlingmerchants).Vast network in local brand /retail merchants preferred.Strong analytical in sales and performance monitoring.Strong negotiation and leadership skills.Excellent communication skills.Adequate ability to write and speak in English"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "District Sales Manager",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Control, monitoring, and development sales.Monitoring and development promoter (training, coaching, and counseling promoter).Merchant relation and development."
+            ],
+            "qualification": [
+                "Candidate must possess at least Diploma Degreein any fieldAt least 2Year(s) of working experience in the related field is required for this positionPreferably Staff (non-management  non-supervisor) specialized in Sales - Financial Services (Insurance, Unit Trust, etc) or equivalentFamiliar with MS Office and ExcelFamiliar with North Jakarta area is preferableRequired Skill(s):Have strong Leadership and able to manage Team and AreaHave good Communication skill and Marketing skill with media social"
             ],
             "posted_by": ""
         },
@@ -331,6 +307,17 @@
             ],
             "qualification": [
                 "More than 10 years experience as Placement and After Sale leader in insurance brokerage firmsHave wide network and strong relationship with the key leaders of Insurance companiesHaving a degree or certificate of insurance broker or in insurance is a plusSolid understanding in General insurance products for all line of risks and businessesStrong understanding of insurance terms and conditions and claim appeal processAble to deliver good insurance proposal according to client’s expectations with good SLAExcellent in communication, negotiation, and persuasion skillsGood interpersonal skill and able to work in individual and as member of team"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "District Sales Manager (Jawa timur)",
+            "location": "surabaya,Indonesia",
+            "description": [
+                "Responsible for partner sales targets in accordance with the areaMake 5 POS visits every dayEnsuring the program in its area runs well and the programs sales targets can be metCoordinate with partner operational teams to obtain information regarding sales, competitors and field issuesMonitoring the daily activities of field teams at partnersConducting field team training and refreshment training with partners (offline/online)"
+            ],
+            "qualification": [
+                "Have a minimum senior high school or bachelor'sdegree in any major or at least have a minimum of 1 years experience as a supervisor in the smartphone and electronics retail industryHas a strong network in the retail industryAble to work under pressureAble to work with a high degree of mobilityAble to maintain a good relationship with the sales force of the client"
             ],
             "posted_by": ""
         },
@@ -423,17 +410,6 @@
             "posted_by": ""
         },
         {
-            "title": "Mutual Fund Business Development Manager - Bandung",
-            "location": "Bandung,Indonesia",
-            "description": [
-                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients"
-            ],
-            "qualification": [
-                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
-            ],
-            "posted_by": ""
-        },
-        {
             "title": "Mutual Fund Business Development Manager",
             "location": "Jakarta,Indonesia",
             "description": [
@@ -456,6 +432,17 @@
             "posted_by": ""
         },
         {
+            "title": "Mutual Fund Business Development Manager - Bandung",
+            "location": "Bandung,Indonesia",
+            "description": [
+                "Acquisition of new client relationships and development of existing client relationshipsSelling a range of investment products to existing and potential clients.Achieving high levels of service standards and maximizing client satisfaction.Demonstrate awareness of budgets and accounts and profitabilityManaging teams that will help in acquiring and development of client relationships both new and existingProvide value adding recommendation for the clients"
+            ],
+            "qualification": [
+                "Has worked in a client facing role within client relationship environment for at least 7 yearsHas the relevant accreditationIs conversant with the full range of mutual fund products, including bonds"
+            ],
+            "posted_by": ""
+        },
+        {
             "title": "Mutual Fund Business Development Manager",
             "location": "Surabaya,Indonesia",
             "description": [
@@ -474,6 +461,19 @@
             ],
             "qualification": [
                 "Male/Female Max 35 Years OldMust have minimum 2 – 3 years as General Insurance Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferredStrong in marketing/partnership, especially in generating new business and client relationshipMust Have deep knowledge of General InsuranceproductsMust be proficient in Ms Office and preparing presentationHighly organised and work well in team environment. Must have excellent interpersonal relationship skillsAbility to assess and maintain multiple priorities while managing one or more books of business"
+            ],
+            "posted_by": ""
+        }
+    ],
+    "Marketing Technology": [
+        {
+            "title": "Junior Business Intelligence Analyst",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Interpreting data, analyzing results using query, data statistical techniques.Create robust, reusable data querying, transformation, and visualization processes using tools such as Excel, SQL, Big Query, Python, R and other big data tools.Develop analytical reports and represent large, complex sets of data through visual representation.Present information in a way that drives fact based decision making.Propose and define new business process improvement opportunities based on the data to drive business impact.Work with management to prioritize business and information needs."
+            ],
+            "qualification": [
+                "Having bachelor degreeor master degreein Information System, Computer Science, Math, Statistics or related field.Fresh graduates are welcome to apply. / Up to 2 years experienceExpert in SQL, have the ability to write advanced DB queries (able to use Python/R/Java/Javascript is desirable).Ability to quickly disseminate data to find key trends, as well as the ability to dive deep and mine the data behind these.Comfortable working with datasets containing millions of rows and creating complex visualizations from raw data in a live dashboard environment.Excellent written and verbal communication skills.Experience working with analytical tools (Jupyter, Python, Hive, BigQuery ML) is a plusAbility to work well and deliver under pressure"
             ],
             "posted_by": ""
         }
@@ -513,17 +513,6 @@
             "posted_by": ""
         },
         {
-            "title": "Senior Litigation Officer",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Analyzing legal cases andgiving opinions based on legal aspectsCoordinate in handling casesPrepare documents needed both internally and externallyCreate and prepare materials for the judgeLiaise with internal stakeholders and internal users, such as Strategic Operations, Business Development, Finance, HR, and Operations"
-            ],
-            "qualification": [
-                "Bachelor degree in lawMin 4 years of experienceGood analytical skillsStrong interpersonal and communication skillsExcellent problem-solving skillsPositive attitude, flexible, proactive, self-motivated and detailed oriented with strong sense of responsibility and able to work individually"
-            ],
-            "posted_by": ""
-        },
-        {
             "title": "Legal Senior Associate",
             "location": "Jakarta,Indonesia",
             "description": [
@@ -531,6 +520,17 @@
             ],
             "qualification": [
                 "Bachelor’s degree in Law (Master’s degree is an advantage)3-4 years experience in as a corporate legal / compliance function at a fintech or financial institution, or have been a legal counsel at a law firmHas experience understanding and implementing financial regulations (by OJK, BI, or Bappebti)Meticulous and have sharp analytical skillsExcellent, research, verbal and written communication skillsStrong interpersonal and influencing skills to work well within the legal team and internal/external stakeholderProficiency in Bahasa Indonesia and English"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Senior Litigation Officer",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Analyzing legal cases andgiving opinions based on legal aspectsCoordinate in handling casesPrepare documents needed both internally and externallyCreate and prepare materials for the judgeLiaise with internal stakeholders and internal users, such as Strategic Operations, Business Development, Finance, HR, and Operations"
+            ],
+            "qualification": [
+                "Bachelor degree in lawMin 4 years of experienceGood analytical skillsStrong interpersonal and communication skillsExcellent problem-solving skillsPositive attitude, flexible, proactive, self-motivated and detailed oriented with strong sense of responsibility and able to work individually"
             ],
             "posted_by": ""
         },
@@ -553,6 +553,30 @@
             ],
             "qualification": [
                 "5+ years of relevant experience of internal audit and/or risk and controls, with background in fintech or financial institutionIncredibly organised and be able to prioritise their workload, as well as be resilient and calm under pressureExcellent end-to-end understanding of internal audit processesExcellent communication skills and possess the ability to liaise with and influence stakeholdersHave a good understanding of corporate compliance and good corporate governance practicesMust have a structured thought process and a strong analytical abilityCandidates with Certified Internal Auditor (CIA) or Certified Information System Auditor (CISA) or equivalent will be of added advantageKnowledge and experience with financial regulatory authorities (OJK, BI, Bappebti) is an added advantage"
+            ],
+            "posted_by": ""
+        }
+    ],
+    "Digital Marketing and Content": [
+        {
+            "title": "Telemarketing Borrower",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Menelepon dan verifikasi data ke customerMenawarkan produk-produk finansial via teleponMengisi formulir dengan menggunakan program komputer yang tersediaMemastikan aplikasi terisi dengan lengkapMemastikan customer yang mendaftar ditindaklanjuti dengan cepat dan tanggap"
+            ],
+            "qualification": [
+                "Usia18-35 TahunMinimal Pendidikan SMA/SederajatPengalaman sebagai Telemarketing Fintech atau BankingMampu berkomunikasi dengan menggunakan Bahasa Indonesia yang baik dan benarMemiliki kemauan tinggi untuk mencapai targetMampu mengoperasikan komputerCepat belajar dan menerima instruksi dengan baikRajin, disiplin, dan bertanggung jawab atas pekerjaannya"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Public Relations Lead",
+            "location": "Central Jakarta,Indonesia",
+            "description": [
+                "Develop public relations strategies to improve corporate branding and public perception of the company.Develop and distribute communication materials: press releases, publications, speakers#39; briefs, presentation materials, and internal communications.Build and maintain relationships with local and national media and agencies, including managing events.Implement a communication action plan during a crisis or when reputation risk arises.Be the PIC for media communication and relations.Develop and manage various corporate communication channels.May work with other departments in the company to generate and implement new ideas and strategies in communicationParticipate in the development of internal communication strategy and training for employees."
+            ],
+            "qualification": [
+                "Min 4 years of experience handling PR related matters.Min 2 years of experience handling team members.Strong knowledge of communication practices and techniques.Outstanding written and verbal communication skills.Excellent organizational and leadership abilities.Must be able to multitask and work well under pressure."
             ],
             "posted_by": ""
         }
@@ -581,17 +605,6 @@
             "posted_by": ""
         },
         {
-            "title": "Health Insurance Telemarketing",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Menelepon dan verifikasi data ke customerMenawarkan produk-produk finansial via teleponMengisi formulir dengan menggunakan program komputer yang tersediaMemastikan aplikasi terisi dengan lengkapMemastikan customer yang mendaftar ditindaklanjuti dengan cepat dan tanggap"
-            ],
-            "qualification": [
-                "Umur 18-35 TahunMinimal Pendidikan SMA/SederajatMemiliki kemauan tinggi untuk mencapai target (target-oriented person)Mampu berkomunikasi dengan menggunakan Bahasa Indonesia yang baik dan benarMemilki pengalaman minimal 1 tahundi bidang Telemarketing Asuransi (Kesehatan / Jiwa)Mampu mengoperasikan komputer dengan baikTidak sedang kuliahBersedia ditempatkan area Tomang, Jakarta BaratCepat belajar dan menerima instruksi dengan baikRajin, disiplin, dan bertanggung jawab atas pekerjaannya"
-            ],
-            "posted_by": ""
-        },
-        {
             "title": "Desk Collection",
             "location": "Jakarta,Indonesia",
             "description": [
@@ -603,13 +616,13 @@
             "posted_by": ""
         },
         {
-            "title": "Offline Promoter (Jabodetabek)",
+            "title": "Health Insurance Telemarketing",
             "location": "Jakarta,Indonesia",
             "description": [
-                "Melakukan pendekatan dengan konsumen untuk memberikan informasi mengenai produk PaylaterMelakukan penjualan produk produkPaylaterMemberikan pelayanan, menjelaskan produk, pengisian aplikasi serta keuntungan menggunakan produkPaylaterMencapai target akuisisiMelaporkan hasil penjualan (daily)Follow Up (melengkapi) kekurangan data pada formulir aplikasi"
+                "Menelepon dan verifikasi data ke customerMenawarkan produk-produk finansial via teleponMengisi formulir dengan menggunakan program komputer yang tersediaMemastikan aplikasi terisi dengan lengkapMemastikan customer yang mendaftar ditindaklanjuti dengan cepat dan tanggap"
             ],
             "qualification": [
-                "​​​​​​Pendidikan minimal SMA/SMKUsia maksimal 27 tahunBerpenampilan menarikKomunikatif serta memiliki inisiatif yang tinggiMemiliki pengalaman bekerja sebagai Sales Promoter menjadi nilai tambahMemiliki komitmen yang kuat untuk bekerja di bidang sales dan mencapai target penjualan yang telah ditetapkan perusahaanPenempatan di Jabodetabek"
+                "Umur 18-35 TahunMinimal Pendidikan SMA/SederajatMemiliki kemauan tinggi untuk mencapai target (target-oriented person)Mampu berkomunikasi dengan menggunakan Bahasa Indonesia yang baik dan benarMemilki pengalaman minimal 1 tahundi bidang Telemarketing Asuransi (Kesehatan / Jiwa)Mampu mengoperasikan komputer dengan baikTidak sedang kuliahBersedia ditempatkan area Tomang, Jakarta BaratCepat belajar dan menerima instruksi dengan baikRajin, disiplin, dan bertanggung jawab atas pekerjaannya"
             ],
             "posted_by": ""
         },
@@ -632,6 +645,17 @@
             ],
             "qualification": [
                 "Minimal pengalaman 6 bulandi bank dan/atau multifinance (mempunyai pengalaman di industri fintech akan menjadi nilai tambah)Memiliki kendaraan bermotor dan minimal SIM CMinimal SMU atau sederajatMempunyai kemampuan komunikasi dan negosasi yang baikMempunyai kompetensi yang baik terutama di bidang field collection (penagihan lapangan) untuk pinjaman tanpa jaminanMemiliki persistensi dan orientasi yang kuat terhadap Pencapaian TargetMampu bekerja sama dalam team dengan interpersonal skill yang baikFamiliar dengan penggunaan Aplikasi Komputer dan Microsoft OfficeDomisili di Jabodetabek"
+            ],
+            "posted_by": ""
+        },
+        {
+            "title": "Offline Promoter (Jabodetabek)",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Melakukan pendekatan dengan konsumen untuk memberikan informasi mengenai produk PaylaterMelakukan penjualan produk produkPaylaterMemberikan pelayanan, menjelaskan produk, pengisian aplikasi serta keuntungan menggunakan produkPaylaterMencapai target akuisisiMelaporkan hasil penjualan (daily)Follow Up (melengkapi) kekurangan data pada formulir aplikasi"
+            ],
+            "qualification": [
+                "​​​​​​Pendidikan minimal SMA/SMKUsia maksimal 27 tahunBerpenampilan menarikKomunikatif serta memiliki inisiatif yang tinggiMemiliki pengalaman bekerja sebagai Sales Promoter menjadi nilai tambahMemiliki komitmen yang kuat untuk bekerja di bidang sales dan mencapai target penjualan yang telah ditetapkan perusahaanPenempatan di Jabodetabek"
             ],
             "posted_by": ""
         },
@@ -735,17 +759,6 @@
             "posted_by": ""
         },
         {
-            "title": "Team Leader Desk Collection",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Manage and responsible for the desk collection ProcessLiaise with Superior (Collection Manager)Responsible to maintain daily, weekly, monthly reportCoordinate collaborations with other departments.Monitoring and developing team performance and coaching the team"
-            ],
-            "qualification": [
-                "Male / FemaleMin D3Minimum 3 years experience in Banking / Leasing and or Multifinance (have experience at FinTech industry is a plus)Preferably have experience as a Supervisor/Coordinator Desk CollectionHave a good communication skills, negotiation skills and have a good leadership skills , have honest attitude, conscientious and able to work with targetsHard worker and able to work with teamAble to operate Microsoft Office"
-            ],
-            "posted_by": "Yovita Laurenzia"
-        },
-        {
             "title": "Telemarketing",
             "location": "Jakarta Barat,Indonesia",
             "description": [
@@ -755,6 +768,17 @@
                 "Umur 18-35 TahunMinimal Pendidikan SMA/SederajatMemiliki kemauan tinggi untuk mencapai target (target-oriented)Mampu berkomunikasi dengan menggunakan Bahasa Indonesia yang baik dan benarMemilki pengalaman di bidang Telemarketing (fresh graduate dipersilahkan melamar)Mampu mengoperasikan komputer dengan baikTidak sedang kuliahBersedia ditempatkan area Tomang, Jakarta BaratCepat belajar dan menerima instruksi dengan baikRajin, disiplin, dan bertanggung jawab atas pekerjaannya"
             ],
             "posted_by": ""
+        },
+        {
+            "title": "Team Leader Desk Collection",
+            "location": "Jakarta,Indonesia",
+            "description": [
+                "Manage and responsible for the desk collection ProcessLiaise with Superior (Collection Manager)Responsible to maintain daily, weekly, monthly reportCoordinate collaborations with other departments.Monitoring and developing team performance and coaching the team"
+            ],
+            "qualification": [
+                "Male / FemaleMin D3Minimum 3 years experience in Banking / Leasing and or Multifinance (have experience at FinTech industry is a plus)Preferably have experience as a Supervisor/Coordinator Desk CollectionHave a good communication skills, negotiation skills and have a good leadership skills , have honest attitude, conscientious and able to work with targetsHard worker and able to work with teamAble to operate Microsoft Office"
+            ],
+            "posted_by": "Yovita Laurenzia"
         },
         {
             "title": "Retail Credit Risk Analytics & Modelling Manager",
@@ -812,33 +836,9 @@
             "posted_by": ""
         }
     ],
-    "Digital Marketing and Content": [
-        {
-            "title": "Telemarketing Borrower",
-            "location": "Jakarta,Indonesia",
-            "description": [
-                "Menelepon dan verifikasi data ke customerMenawarkan produk-produk finansial via teleponMengisi formulir dengan menggunakan program komputer yang tersediaMemastikan aplikasi terisi dengan lengkapMemastikan customer yang mendaftar ditindaklanjuti dengan cepat dan tanggap"
-            ],
-            "qualification": [
-                "Usia18-35 TahunMinimal Pendidikan SMA/SederajatPengalaman sebagai Telemarketing Fintech atau BankingMampu berkomunikasi dengan menggunakan Bahasa Indonesia yang baik dan benarMemiliki kemauan tinggi untuk mencapai targetMampu mengoperasikan komputerCepat belajar dan menerima instruksi dengan baikRajin, disiplin, dan bertanggung jawab atas pekerjaannya"
-            ],
-            "posted_by": ""
-        },
-        {
-            "title": "Public Relations Lead",
-            "location": "Central Jakarta,Indonesia",
-            "description": [
-                "Develop public relations strategies to improve corporate branding and public perception of the company.Develop and distribute communication materials: press releases, publications, speakers#39; briefs, presentation materials, and internal communications.Build and maintain relationships with local and national media and agencies, including managing events.Implement a communication action plan during a crisis or when reputation risk arises.Be the PIC for media communication and relations.Develop and manage various corporate communication channels.May work with other departments in the company to generate and implement new ideas and strategies in communicationParticipate in the development of internal communication strategy and training for employees."
-            ],
-            "qualification": [
-                "Min 4 years of experience handling PR related matters.Min 2 years of experience handling team members.Strong knowledge of communication practices and techniques.Outstanding written and verbal communication skills.Excellent organizational and leadership abilities.Must be able to multitask and work well under pressure."
-            ],
-            "posted_by": ""
-        }
-    ],
     "Product": [
         {
-            "title": "Product Owner (Entry, Mid and Senior  Levels)",
+            "title": "Product Owner (Entry, Mid and Senior Levels Available) .",
             "location": "Jakarta,Indonesia",
             "description": [
                 "Research, analyze, define product features and you create metrics to measure the impact of your product to the companyBe the primary driver of your product's planning and executionWrite the specs of new features and enhancementsCome up with product road map and rally other people to join your cause to realize your product vision. You are expected to be able to prototype your vision to convince others if necessary.Work with engineers, designers, ops, sales, legal and even external partners to make things happen"
@@ -849,7 +849,7 @@
             "posted_by": ""
         },
         {
-            "title": "Product Owner (Entry, Mid and Senior Levels Available) .",
+            "title": "Product Owner (Entry, Mid and Senior  Levels)",
             "location": "Jakarta,Indonesia",
             "description": [
                 "Research, analyze, define product features and you create metrics to measure the impact of your product to the companyBe the primary driver of your product's planning and executionWrite the specs of new features and enhancementsCome up with product road map and rally other people to join your cause to realize your product vision. You are expected to be able to prototype your vision to convince others if necessary.Work with engineers, designers, ops, sales, legal and even external partners to make things happen"
